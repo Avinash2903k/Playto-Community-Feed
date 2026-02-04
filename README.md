@@ -236,5 +236,5 @@ Built as part of the Playto Engineering Challenge.
 
 ## 🔗 Links
 
-- [Repository](https://github.com/Srivenkatesh03/playto)
+- [Repository](https://github.com/Avinash2903k/Playto-Community-Feed)
 - [EXPLAINER.md](./EXPLAINER.md) - Technical deep dive
