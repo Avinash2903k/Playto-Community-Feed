@@ -37,7 +37,7 @@ A full-stack community feed application with threaded discussions and dynamic le
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Srivenkatesh03/playto.git
+   git clone https://github.com/Avinash2903k/Playto-Community-Feed
    cd playto
    ```
 
